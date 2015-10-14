@@ -23,14 +23,14 @@ describe('postcss-danish-stylesheets', () => {
 	});
 	it('converted values', done => {
 		test(
-			'a{ xxx: bold; }',
 			'a{ xxx: fed; }',
+			'a{ xxx: bold; }',
 		{}, done);
 	});
 	it('all', done => {
 		test(
-			'a{ xxx: bold; }',
-			'a{ xxx: fed; }',
+			'a{ xxx: fed!vigtig; farve: xxx; }',
+			'a{ xxx: bold !important; color: xxx; }',
 		{}, done);
 	});
 });
