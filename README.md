@@ -5,8 +5,8 @@ PostCSS Danish Stylesheets
 [PostCSS] plugin for writing Danish Stylesheets.
 
 [PostCSS]: https://github.com/postcss/postcss
-[ci-img]:  https://travis-ci.org/dp-lewis/postcss-danish-stylesheets.svg
-[ci]:      https://travis-ci.org/dp-lewis/postcss-danish-stylesheets
+[ci-img]:  https://travis-ci.org/mi2oon/postcss-danish-stylesheets.svg
+[ci]:      https://travis-ci.org/mi2oon/postcss-danish-stylesheets
 
 ## Danish syntax
 ```css
