@@ -1,8 +1,11 @@
 node_modules/
 test/
+
+npm-debug.log
 .editorconfig
 .eslintrc
 .gitignore
 .travis.yml
+
 postcss-danish-stylesheets.sublime-workspace
 postcss-danish-stylesheets.sublime-project

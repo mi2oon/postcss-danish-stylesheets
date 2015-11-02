@@ -1,5 +1,7 @@
 PostCSS Danish Stylesheets 
 
+[![npm](https://nodei.co/npm/gulp-load-plugins.svg?downloads=true)](https://nodei.co/npm/gulp-load-plugins/)
+
 [![Build Status][ci-img]][ci]
 
 [PostCSS] plugin for writing Danish Stylesheets.
@@ -11,7 +13,7 @@ PostCSS Danish Stylesheets
 ## Danish syntax
 ```css
 .foo {
-    border-colour: vb-green;
+    farve: vb-green;
     background-colour: vegemite;
     box-sizing: fair-dinkum;
     colour: true-blue !bloody-oath;
